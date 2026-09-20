@@ -1,7 +1,9 @@
+arXiv:2608.XXXXX [q-bio.NC]
+Preprint – Submitted: August 27, 2026
 SYSTEM 5.0: A Unified
 Neuro-Semiotic Framework for
 Symbolic Information Load, Limbic
-Resonance, and Cultural Singularities
+Resonance, and Cultural Shock
 Author: [Independent Researcher / Interdisciplinary Institute for
 Neuro-Semiotics]
 Correspondence: [email]
@@ -17,15 +19,11 @@ symbolic frequency and limbic synchrony, explaining phenomena ranging from orche
 coordination to shared altered states of consciousness (e.g., dreams, near-death
 experiences, psychedelic visions) as instances of limbic resonance. Furthermore, we
 formalize the symbolic decoding gap to explain cultural shock in isolated populations.
-Finally, we demonstrate the framework's practical utility through proof-of-concept
-algorithmic attention engineering and discuss the implications of AI-generated super-stimuli.
 All mechanisms are falsifiable, with operational metrics provided.
-Keywords: neuroaesthetics; informational telepathy; predictive coding; limbic resonance; symbolic decoding gap; altered states of consciousness; attention
-engineering
+Keywords: neuroaesthetics; informational telepathy; predictive coding; limbic resonance; symbolic decoding gap; altered states of consciousness
 PACS: 87.19.ll (Neural modeling), 89.70.-a (Information and communication theory),
 87.19.xv (Cognitive neuroscience)
-MSC: 92B20 (Neural networks), 91D30 (Social networks), 68T07 (Artificial intelligence and
-society)
+MSC: 92B20 (Neural networks), 91D30 (Social networks)
 
 Introduction
 Formal theories of art, communication, and cultural evolution face a persistent tension
@@ -55,9 +53,6 @@ exponentially widening symbolic decoding gap.
 H₄ (Limbic Resonance & Altered States): Collective synchrony and shared altered
 states (dreams, NDEs, psychedelics) are manifestations of limbic resonance, occurring
 when external symbolic frequency drops, unmasking universal spectral archetypes.
-H₅ (AI Super-Stimuli & Emotional Cryptography): AI acts as a hyper-accelerated
-super-stimulus producer, necessitating the evolution of "emotional cryptography" as a
-human defense mechanism against algorithmic limbic hijacking.
 
 The Neuro-Semiotic Foundations of Art and
 Verisimilitude
@@ -146,28 +141,6 @@ Asymmetric Telepathy maps directly onto colonial power structures, allowing domi
 groups to manipulate or marginalize isolated groups via indecipherable symbolic systems
 (e.g., legal codes, bureaucratic interfaces).
 
-Artificial Intelligence and Algorithmic Attention
-Engineering
-6.1 AI as Super-Stimulus and Predictive Collapse
-AI systems generate symbols with maximal L( s ) but lack genuine intentionality. This creates
-a prediction trap: the human limbic system generates models of AI "intentions" that never
-confirm in reality, leading to chronic predictive collapse, paranoia, and eventual rejection
-(necessitating Emotional Cryptography—the use of opaque, low-load symbols to evade AI
-decoding).
-6.2 Proof-of-Concept: Limbic Hijacking
-To prove that informational telepathy is exploitable for algorithmic amplification, we
-engineered two stress-test artifacts designed to maximally activate the 4-Node Limbic
-Circuit:
-Text Artifact (280 characters): Utilizes autobiographical retrieval (Hippocampus), threat
-detection (Amygdala), and information gaps (PFC) to force high read-times and
-comment rates.
-Video Artifact (15s AI-Generated): Combines uncanny valley micro-expressions,
-sudden audio silences, and pupillary dilation to trigger mirror-neuron simulation and
-amygdalar paranoia, yielding predicted completion rates > 90% and replay rates >
-20%.
-Falsification Condition: If these artifacts fail to significantly outperform platform baseline
-engagement metrics, the theory of algorithmic limbic hijacking is weakened.
-
 Operational Metrics and Falsifiability
 Table 1. Proposed Experimental Measurements
 Concept Measurement Method Falsification Criterion
@@ -190,23 +163,17 @@ Inter-subject correlation κ ≤ 0.2
 Absurdity ΔNAcc (fMRI) + τfix (Eye-tracking) No significant spike in
 reward/fixation metrics for
 "perfect" art
-Algorithmic Hijack A/B testing engagement metrics of
-engineered artifacts
-No significant difference vs.
-control posts
 
 Discussion and Ethical Considerations
-8.1 Relation to Existing Literature
-8.2 Ethical Implications
-
-8.2 Ethical Implications
-Informed Consent: Algorithmic attention engineering bypasses cortical deliberation,
-manipulating the amygdala without consent.
+7.1 Relation to Existing Literature
+7.2 Ethical Implications
+Informed Consent: Symbolic decoding and informational telepathy research must
+respect consent, especially when studying isolated populations.
 Vulnerable Populations: Isolated individuals and those with anxiety disorders are highly
-susceptible to predictive collapse and AI-induced paranoia.
+susceptible to predictive collapse.
 Democratic Erosion: State or corporate actors could deploy high-L( s ) artifacts to
 replace democratic deliberation with amygdalar reflex.
-8.3 Limitations
+7.3 Limitations
 
 Conclusion
 Acknowledgments
@@ -233,8 +200,6 @@ Boyd, R., & Richerson, P. J. (1985). Culture and the Evolutionary Process. Unive
 Chicago Press.
 Simon, H. A. (1971). Designing organizations for an information-rich world. In
 Computers, Communications, and the Public Interest.
-Lanier, J. (2018). Ten Arguments for Deleting Your Social Media Accounts Right Now.
-Henry Holt.
 Dehaene, S. (2009). Reading in the Brain: The New Science of How We Read. Viking.
 Henrich, J. (2015). The Secret of Our Success: How Culture Is Driving Human Evolution.
 Princeton University Press.
